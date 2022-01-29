@@ -1,5 +1,5 @@
 # dns-enumeration-tool
-Enumerate DNS records using Python
+Enumerate DNS records using Python. Run the script in powershell or command prompt.
 
 # Created by: Clarence Subia
 # Creation date: 01/29/2022
