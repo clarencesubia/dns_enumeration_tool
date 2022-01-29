@@ -14,3 +14,8 @@ python3 dnslookup.py -t youtube.com -q A
 
 Query multiple targets from a txt file:
 python3 dnslookup.py -f targets.txt -q A
+
+
+References:
+
+https://www.dnspython.org/examples/
