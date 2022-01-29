@@ -11,6 +11,7 @@ python3 dnslookup.py -t youtube.com
 
 Query a specific record for a single domain:
 python3 dnslookup.py -t youtube.com -q A
+python3 dnslookup.py -t youtube.com -q A MX
 
 Query multiple targets from a txt file:
 python3 dnslookup.py -f targets.txt -q A
