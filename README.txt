@@ -15,6 +15,11 @@ python3 dnslookup.py -t youtube.com -q A
 Query multiple targets from a txt file:
 python3 dnslookup.py -f targets.txt -q A
 
+Reverse DNS Query:
+
+python3 dnslookup.py -t 127.0.0.1 -q ptr
+python3 dnslookup.py -f ip_lists.txt -q ptr
+
 
 References:
 
