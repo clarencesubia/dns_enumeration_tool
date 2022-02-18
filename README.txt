@@ -25,3 +25,4 @@ python3 dnslookup.py -f ip_lists.txt -q ptr
 References:
 
 https://www.dnspython.org/examples/
+I hope you this script helpful.
